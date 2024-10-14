@@ -24,6 +24,7 @@ Here is some css for improved desktop font shadows on brighter wallpapers. Just 
     text-shadow: 1px 1px 0px rgba(0, 0, 0, 0.85);
 }
 ```
+![image](https://github.com/user-attachments/assets/3a04d3f6-923f-43d2-9fb4-0322c5bca4cb)
 
 ## Images
 ![image](https://github.com/user-attachments/assets/7d40e79a-b468-4890-8b92-bcdc1fa380f5)

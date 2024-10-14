@@ -1,7 +1,7 @@
 # Mintows-Theme
 A simple GTK theme made originally for Linux Mint by combining Adwaita and Graphite.  
 
-To install just download and put one of the theme variants in `~/.themes`.
+To install just download the repository and put one of the theme variants in `~/.themes`.
 
 ![image](https://github.com/user-attachments/assets/7d40e79a-b468-4890-8b92-bcdc1fa380f5)
 

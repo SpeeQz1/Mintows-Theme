@@ -3,7 +3,7 @@ A simple GTK theme made originally for Linux Mint by combining Adwaita and Graph
 
 To install just download the repository and put one of the theme variants in `~/.themes`.
 
-# Notes
+## Notes
 Here is some css for improved desktop font shadows on brighter wallpapers. Just put at the end of `~/.config/gtk-3.0/gtk.css` the css code.
 ```css
 .nemo-desktop.nemo-canvas-item {
@@ -25,7 +25,7 @@ Here is some css for improved desktop font shadows on brighter wallpapers. Just 
 }
 ```
 
-# Images
+## Images
 ![image](https://github.com/user-attachments/assets/7d40e79a-b468-4890-8b92-bcdc1fa380f5)
 
 ![image](https://github.com/user-attachments/assets/3c143177-75d2-44dd-b80a-8f1e9c34ea81)

@@ -4,6 +4,8 @@ A simple GTK theme made originally for Linux Mint by combining Adwaita and Graph
 To install just download the repository and put one of the theme variants in `~/.themes`.
 
 ## Notes
+Currently the theme doesn't change the colors of Cinnamon apps like Calcultor or Screenshot due to Adwaita not generating the colours for Cinnamon specifically.
+<\hr>
 Here is some css for improved desktop font shadows on brighter wallpapers. Just put at the end of `~/.config/gtk-3.0/gtk.css` the css code.
 ```css
 .nemo-desktop.nemo-canvas-item {

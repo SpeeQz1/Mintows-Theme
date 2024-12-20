@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/3f3ca290-0486-482e-b1ff-6d085b6c1965" style="width: 128px; height:128px"/>
+  <img src="https://github.com/user-attachments/assets/40e0d134-35cc-40a5-a55a-242d96d037df" style="width: 128px; height:128px"/>
 </p>
 
 # Mintows-Theme

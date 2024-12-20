@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/3f3ca290-0486-482e-b1ff-6d085b6c1965" style="width: 128px; height:128px"/>
+</p>
+
 # Mintows-Theme
 A simple GTK theme made originally for Linux Mint by combining Adwaita and Graphite.  
 

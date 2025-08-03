@@ -1739,6 +1739,50 @@ StScrollBar StButton#vhandle:active, StScrollBar StButton#hhandle:active {
   box-shadow: none;
 }
 
+/* ==================================================== */
+/* Adding border thickness to the grouped window list applet too */
+
+.panel-bottom .grouped-window-list-item-box {
+  border-bottom: 2px solid transparent;
+}
+
+.panel-top .grouped-window-list-item-box {
+  border-top: 2px solid transparent;
+}
+
+.panel-left .grouped-window-list-item-box {
+  border-left: 2px solid transparent;
+}
+
+.panel-right .grouped-window-list-item-box {
+  border-right: 2px solid transparent;
+}
+
+/* ==================================================== */
+/* Top border requires color to be specifically changed */
+
+.panel-top .grouped-window-list-item-box:hover {
+  background-color: rgba(255, 255, 255, 0.15);
+}
+
+.panel-top .grouped-window-list-item-box:active {
+  border-color: rgba(255, 255, 255, 0.3);
+}
+
+.panel-top .grouped-window-list-item-box:active:hover {
+  background-color: rgba(255, 255, 255, 0.15);
+}
+
+.panel-top .grouped-window-list-item-box:focus {
+  border-top-color: #5294e2;
+}
+
+.panel-top .grouped-window-list-item-box:focus:hover {
+  background-color: rgba(255, 255, 255, 0.3);
+}
+
+/* ==================================================== */
+
 .grouped-window-list-item-demands-attention {
   background-gradient-start: #FDD633;
   background-gradient-end: #FDD633;
